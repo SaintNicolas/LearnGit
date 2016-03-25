@@ -3,3 +3,4 @@ git is a distributed version control system.
 git is beatiful and charming.
 Git has a mutable called stage.
 Git tracks changes , not the file.
+Git is a software via GPL
